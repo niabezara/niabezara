@@ -24,8 +24,7 @@ Hi Coders! I am Nia
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![React-Dark](https://github.com/niabezara/niabezara/assets/118462345/cc214805-6124-4705-a3d4-4a27d58de364)
-![TypeScript](https://github.com/niabezara/niabezara/assets/118462345/e0921dff-9255-4974-bdc1-ef26d9532e3e)
+
 
 
 
