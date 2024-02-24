@@ -16,7 +16,7 @@
   ✨ Tech stack currently using:
 </summary>
    <br>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,jest,materialui,mongodb,nextjs,nodejs,npm,react,redux,styledcomponents,tailwind,ts,emotion)](https://skillicons.dev)
+ 
 
 <br>
 
