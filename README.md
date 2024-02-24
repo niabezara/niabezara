@@ -22,6 +22,20 @@
         <img src="https://skillicons.dev/icons?i=html" />
         <img src="https://skillicons.dev/icons?i=css" />
         <img src="https://skillicons.dev/icons?i=js" />
+        <img src="https://skillicons.dev/icons?i=emotion" />
+        <img src="https://skillicons.dev/icons?i=figma" />
+        <img src="https://skillicons.dev/icons?i=graphql" />
+        <img src="https://skillicons.dev/icons?i=jest" />
+         <img src="https://skillicons.dev/icons?i=materialui" />
+          <img src="https://skillicons.dev/icons?i=mongodb" />
+           <img src="https://skillicons.dev/icons?i=nextjs" />
+                  <img src="https://skillicons.dev/icons?i=nodejs" />
+                         <img src="https://skillicons.dev/icons?i=npm" />
+                                <img src="https://skillicons.dev/icons?i=redux" />
+                                 <img src="https://skillicons.dev/icons?i=styledcomponents" />
+                                  <img src="https://skillicons.dev/icons?i=tailwind" />
+                                        <img src="https://skillicons.dev/icons?i=ts" />
+                              
    </div>
 
 <br>
