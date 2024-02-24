@@ -17,6 +17,7 @@
 </summary>
    <br>
    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=react" />
 
 <br>
 
