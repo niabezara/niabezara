@@ -16,7 +16,7 @@
   ✨ Tech stack currently using:
 </summary>
    <br>
- 
+   <img src="https://skillicons.dev/icons?i=git" />
 
 <br>
 
