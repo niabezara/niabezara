@@ -36,6 +36,8 @@
                                   <img src="https://skillicons.dev/icons?i=tailwind" />
                                         <img src="https://skillicons.dev/icons?i=ts" />
                                          <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+                                         
                               
    </div>
 
