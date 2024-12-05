@@ -3,7 +3,11 @@
 
 </p>
 <p><strong> 
-<br>Front-End web-developer
+<br>As a dedicated Frontend Developer 💻, I thrive on creating and maintaining dynamic web applications using a variety of modern technologies. My passion for web development drives me to continuously learn and adapt, ensuring that I stay at the forefront of the industry 🌱.
+
+With a strong focus on frontend development, I have successfully worked on numerous projects 🛠️, creating efficient and scalable applications. Currently, I am expanding my knowledge by learning backend technologies to become a full stack developer. My motivation drives me to constantly improve my skills and knowledge, and I find great satisfaction in tackling new challenges 💪.
+
+I’m enthusiastic about the future and eager to contribute to innovative projects that transform the digital landscape 🚀.
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
